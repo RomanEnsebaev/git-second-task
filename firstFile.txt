@@ -4,7 +4,7 @@
 1-3 changed in git_1
 1-4 another change in git_1
 1-5 another change in git_1
-1-6
-1-7
+1-6 changed in git_1 in folder2
+1-7 changed in git_1 in folder2
 1-8
 1-9
