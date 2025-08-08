@@ -2,8 +2,8 @@
 1-1
 1-2 changed in git_1
 1-3 changed in git_1
-1-4
-1-5
+1-4 another change in git_1
+1-5 another change in git_1
 1-6
 1-7
 1-8
